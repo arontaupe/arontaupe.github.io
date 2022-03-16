@@ -1,0 +1,38 @@
+# main links
+main:
+  - title: "About"
+    url: /about/
+  - title: "Portfolio"
+    url: /portfolio/
+  - title: "Experience"
+    url: /cv/
+
+
+
+# sidebar navigation list
+portfolio-sidebar:
+  - title: "3D Printing"
+    url: /printing/
+  - title: "Philosophy"
+    url: /philosophy/
+  - title: "CAD and 3D design"
+    url: /cad/
+  - title: "Beacon: Decentralized Energy"
+    url: /beacon/
+  - title: "Plastic Recycling"
+    url: /plastic-recycling/
+  - title: "Unity"
+    url: /ballpark/
+  - title: "3D Scanning"
+    url: /scanning/
+  - title: "Coding Examples"
+    url: /coding/
+  - title: "Brewing Beer"
+    url: /homebrew/
+  - title: "Speech interfaces"
+    url: /chatbot/
+  - title: "Linguistic experiment"
+    url: /thesis/
+  - title: "Making Iron"
+    url: /iron-smelting/
+
